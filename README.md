@@ -1,7 +1,13 @@
+<p align="center">
+
 # Hi There, I'm Ernesto Yoofi
+  
+<p align="center">
 
 ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCoiy7J9wuubiqdvvJvImmMg?logo=youtube&logoColor=red&style=for-the-badge)
 ![Twitter](https://img.shields.io/twitter/follow/Ernestoyoofi?style=for-the-badge)
+
+</p>
 
 # About Me ?
 
@@ -18,10 +24,11 @@
 
 # Donation
 
-[![Saweria.io](img/saweria.png)](https://saweria.co/ernestoyoofi)
+[![Saweria.co](img/saweria.png)](https://saweria.co/ernestoyoofi)
 [![Trakteer.id](img/trakteer.png)](https://trakteer.id/ernestoyoofi)
 [![Buy Me Coffee](img/buymecoffee.png)](https://www.buymeacoffee.com/yoofiernesto)
 
 # Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ernestoyoofi&theme=algolia&show_icons=true">
+<p align="center">
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ernestoyoofi">
