@@ -25,10 +25,9 @@
 # Donation
 
 <p align="center">
-  
-  <a href=""><img src="" width="33%"></a>
-  <a href="https://www.buymeacoffee.com/yoofiernesto"><img src="img/buymecoffee.png" width="33%"></a>
-  <a href="https://saweria.co/ernestoyoofi"><img src="img/saweria.png" width="33%"></a>
+  <a href="https://trakteer.id/ernestoyoofi"><img src="https://trakteer.id/favicon/favicon-32x32.png" width="10%"></a>
+  <a href="https://www.buymeacoffee.com/yoofiernesto"><img src="img/buymecoffee.png" width="10%"></a>
+  <a href="https://saweria.co/ernestoyoofi"><img src="img/saweria.png" width="10%"></a>
 
 
 # Github Stats
