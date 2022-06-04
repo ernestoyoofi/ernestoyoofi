@@ -2,7 +2,7 @@
 
 <p align="center">
 
-# Hi There, I'm Ernesto Yoofi
+### Hi There, I'm Ernesto Yoofi
   
 <p align="center">
 
@@ -11,20 +11,20 @@
 
 </p>
 
-# About Me ?
+### About Me ?
 
 - [🌆 I Live In The Country **Indonesia**](https://id.wikipedia.org/wiki/Indonesia)
 - [👨‍🎓 I Junior High School In **SMPN 1 Nanggulan**](https://www.smpn1nanggulan.sch.id/)
 - [✨ inspiration Coding From My Mind
 - [📧 Contact Me In **akuyetta2@gmail.com**](mailto:akuyetta2@gmail.com)
 
-# Social Media
+### Social Media
 
 [![Website](img/website.png)](https://ernestoyoofi.github.io/)
 [![YouTube](img/youtube.png)](https://www.youtube.com/channel/UCoiy7J9wuubiqdvvJvImmMg)
 [![Twitter](img/twitter.png)](https://twitter.com/Ernestoyoofi)
 
-# Donation
+### Donation
 
 <p align="center">
   <a href="https://trakteer.id/ernestoyoofi"><img src="https://trakteer.id/favicon/favicon-32x32.png" width="10%"></a>
@@ -32,7 +32,7 @@
   <a href="https://saweria.co/ernestoyoofi"><img src="img/saweria.png" width="10%"></a>
 
 
-# Github Stats
+### Github Stats
 
 <p align="center">
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ernestoyoofi">
