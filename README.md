@@ -1,5 +1,3 @@
-<img src="img/banner_github.png" width="100%">
-
 <p align="center">
 
 ### Hi There, I'm Ernesto Yoofi
@@ -15,8 +13,8 @@
 
 - [🌆 I Live In The Country **Indonesia**](https://id.wikipedia.org/wiki/Indonesia)
 - [👨‍🎓 I Junior High School In **SMPN 1 Nanggulan**](https://www.smpn1nanggulan.sch.id/)
-- [✨ inspiration Coding From My Mind
-- [📧 Contact Me In **akuyetta2@gmail.com**](mailto:akuyetta2@gmail.com)
+- ✨ inspiration Coding From My Mind
+- 📧 Contact Me In **akuyetta2@gmail.com**
 
 ### Social Media
 
