@@ -1,3 +1,95 @@
 {
-  "name": "Ernestoyoofi"
+  "name": "Ernestoyoofi",
+  "taguser": "ernestoyoofi",
+  "birth_days": {
+    "full_en": "14 March 2008",
+    "full_id": "14 Maret 2008",
+    "formated": "14|2|2008",
+    "js_formated": "days|mounths|years"
+  },
+  "school_history": [
+    {
+      "name_org": "SD Negeri Jetisharjo Yogyakarya",
+      "location": "Cokrodiningratan, Kec. Jetis, Yogyakarta City, Special Region of Yogyakarta",
+      "type": "school",
+      "web_org": "http://sdjetisharjoykt.mysch.id/"
+    },
+    {
+      "name_org": "SDN Dekso II",
+      "location": "Kagoengan, Banjararum, Kec. Kalibawang, Kulon Progo Regency, Special Region of Yogyakarta",
+      "type": "school",
+      "web_org": null
+    },
+    {
+      "name_org": "SMPN 1 Nanggulan",
+      "location": "Karang, Jati Sarono, Kec. Nanggulan, Kulon Progo Regency, Special Region of Yogyakarta",
+      "type": "school",
+      "web_org": "https://www.smpn1nanggulan.sch.id/"
+    }
+  ],
+  "work_now": [
+    {
+      "name_org": "SMPN 1 Nanggulan",
+      "location": "Karang, Jati Sarono, Kec. Nanggulan, Kulon Progo Regency, Special Region of Yogyakarta",
+      "type": "school",
+      "web_org": "https://www.smpn1nanggulan.sch.id/"
+    }
+  ],
+  "favorit_program_language": [
+    {
+      "title": "Python",
+      "docs": "https://docs.python.org/3/",
+      "github_org": "https://github.com/python",
+      "intergrated": []
+    },
+    {
+      "title": "Javascript",
+      "docs": null,
+      "github_org": null,
+      "intergrated": [
+        {
+          "title": "Nodejs",
+          "docs": "https://nodejs.org/en/docs/"
+        }
+      ]
+    }
+  ],
+  "discord_conncted": [
+    {
+      "title": "Facebook",
+      "url": ""
+    },
+    {
+      "title": "Github",
+      "url": "https://github.com/ernestoyoofi"
+    },
+    {
+      "title": "Reddit",
+      "url": "https://www.reddit.com/u/Ernestoyoofi"
+    },
+    {
+      "title": "Spotify",
+      "url": "https://open.spotify.com/user/gvmv7akkoh7frzpqinrymuk4z"
+    },
+    {
+      "title": "Steam",
+      "url": "https://steamcommunity.com/id/ernestoyoofi/"
+    },
+    {
+      "title": "Twitch",
+      "url": "https://www.twitch.tv/ernestoyoofi"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/Ernestoyoofi"
+    },
+    {
+      "title": "Xbox Acconts",
+      "url": ""
+    },
+    {
+      "title": "Youtube",
+      "url": "https://www.youtube.com/channel/UCoiy7J9wuubiqdvvJvImmMg"
+    }
+  ]
 }
