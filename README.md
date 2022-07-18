@@ -7,9 +7,11 @@
 
 ### About Me ?
 
-- 🌆 I Live In The [**Indonesia Country**](https://en.wikipedia.org/wiki/Indonesia), [**Special Region of Yogyakarta**](https://en.wikipedia.org/wiki/Special_Region_of_Yogyakarta)
-- 👨‍🎓 I Junior High School In [**SMPN 1 Nanggulan**](https://www.smpn1nanggulan.sch.id/)
-- 📧 Contact Me In **info.ernestoyoofi@gmail.com**
+1. 🎒 I am 14 years old and a junior high school student
+2. 🌆 I Live In The [**Indonesia Country**](https://en.wikipedia.org/wiki/Indonesia), [**Special Region of Yogyakarta**](https://en.wikipedia.org/wiki/Special_Region_of_Yogyakarta)
+3. 👨‍🎓 I Junior High School In [**SMPN 1 Nanggulan**](https://www.smpn1nanggulan.sch.id/)
+4. 📧 Contact Me In **info.ernestoyoofi@gmail.com**
+5. <img src="img/javascript.png" width="18px"> Javascript Is My Favorite Programing Languages
 
 <details>
   
@@ -19,3 +21,5 @@
   ### Most Language
   ![Readme Statis](https://bad-apple-github-readme.vercel.app/api/top-langs/?username=ernestoyoofi&show_bg=1&layout=compact)
 </details>
+
+[💶 Donation to me via saweria.co](https://saweria.co/ernestoyoofi)
