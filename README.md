@@ -1,3 +1,5 @@
+<img src="https://ernestoyoofi.github.io/ernestoyoofi/img/sakura-san%20reading%20c%2B%2B.jpeg" width="100%">
+
 ### Hi There, I'm Ernesto Yoofi 👋
  
 ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCoiy7J9wuubiqdvvJvImmMg?logo=youtube&logoColor=red&style=for-the-badge)
