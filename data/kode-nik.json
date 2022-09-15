@@ -1,0 +1,142 @@
+{
+  "provinsi": [
+    {
+      "kode": "11",
+      "hasil": "Aceh"
+    },
+    {
+      "kode": "51",
+      "hasil": "Bali"
+    },
+    {
+      "kode": "36",
+      "hasil": "Banten"
+    },
+    {
+      "kode": "17",
+      "hasil": "Bengkulu"
+    },
+    {
+      "kode": "34",
+      "hasil": "Yogyakarta"
+    },
+    {
+      "kode": "31",
+      "hasil": "DKI Jakarta"
+    },
+    {
+      "kode": "75",
+      "value": "Gorontalo"
+    },
+    {
+      "kode": "15",
+      "value": "Jambi"
+    },
+    {
+      "kode": "32",
+      "value": "Jawa Barat"
+    },
+    {
+      "kode": "33",
+      "value": "Jawa Tengah"
+    },
+    {
+      "kode": "35",
+      "value": "Jawa Timur"
+    },
+    {
+      "kode": "61",
+      "value": "Kalimantan Barat"
+    },
+    {
+      "kode": "63",
+      "value": "Kalimantan Selatan"
+    },
+    {
+      "kode": "62",
+      "value": "Kalimatan Tengah"
+    },
+    {
+      "kode": "64",
+      "value": "Kalimantan Timur"
+    },
+    {
+      "kode": "65",
+      "value": "Kalimantan Utara"
+    },
+    {
+      "kode": "19",
+      "value": "Kepulauan Bangka Belitung"
+    },
+    {
+      "kode": "21",
+      "value": "Kepulauan Riau"
+    },
+    {
+      "kode": "18",
+      "value": "Lampung"
+    },
+    {
+      "kode": "81",
+      "value": "Maluku"
+    },
+    {
+      "kode": "82",
+      "value": "Maluku Utara"
+    },
+    {
+      "kode": "52",
+      "value": "Nusa Tenggara Barat"
+    },
+    {
+      "kode": "53",
+      "value": "Nusa Tenggara Timur"
+    },
+    {
+      "kode": "91",
+      "value": "Papua"
+    },
+    {
+      "kode": "92",
+      "value": "Papua Barat"
+    },
+    {
+      "kode": "14",
+      "value": "Riau"
+    },
+    {
+      "kode": "76",
+      "value": "Sulawesi Barat"
+    },
+    {
+      "kode": "73",
+      "value": "Sulawesi Selatan"
+    },
+    {
+      "kode": "72",
+      "value": "Sulawesi Tengah"
+    },
+    {
+      "kode": "74",
+      "value": "Sulawesi Tenggara"
+    },
+    {
+      "kode": "71",
+      "value": "Sulawesi Utara"
+    },
+    {
+      "kode": "13",
+      "value": "Sumatra Barat"
+    },
+    {
+      "kode": "16",
+      "value": "Sumatra Selatan"
+    },
+    {
+      "kode": "12",
+      "hasil": "Sumatra Utara"
+    }
+  ],
+  "kabpaten": [],
+  "kecamatan": []
+}
