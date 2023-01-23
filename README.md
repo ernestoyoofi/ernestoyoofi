@@ -1,5 +1,8 @@
+
+<img src="https://trakteer.id/storage/images/cover/cvr-lDWadqmiX1DoEjFay4DkEVWE5Y6zVkxC1674443656.jpg" width="100%"/>
+
 ### Hi There, I'm Ernesto Yoofi 👋
- 
+
 [![](https://img.shields.io/badge/follow%20u%2Fernestoyoofi-red?logo=reddit&style=social)](https://reddit.com/u/ernestoyoofi) •
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCoiy7J9wuubiqdvvJvImmMg)](https://youtube.com/Ernestoyoofi) •
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ernestoyoofi?style=social)](https://twitter.com/Ernestoyoofi) •
