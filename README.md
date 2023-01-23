@@ -1,27 +1,23 @@
-<!-- <img src="https://ernestoyoofi.github.io/ernestoyoofi/img/sakura-san%20reading%20c%2B%2B.jpeg" width="100%"> -->
-
 ### Hi There, I'm Ernesto Yoofi 👋
  
-![Youtube](https://img.shields.io/youtube/channel/subscribers/UCoiy7J9wuubiqdvvJvImmMg?logo=youtube&logoColor=red&style=for-the-badge)
-![Twitter](https://img.shields.io/twitter/follow/Ernestoyoofi?style=for-the-badge)
-![Discord](https://img.shields.io/discord/960835414967611422?label=Discord%20Server&logo=discord&style=for-the-badge)
-
+[![](https://img.shields.io/badge/follow%20u%2Fernestoyoofi-red?logo=reddit&style=social)](https://reddit.com/u/ernestoyoofi) •
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCoiy7J9wuubiqdvvJvImmMg)](https://youtube.com/Ernestoyoofi) •
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ernestoyoofi?style=social)](https://twitter.com/Ernestoyoofi) •
+[![GitHub followers](https://img.shields.io/github/followers/ernestoyoofi?style=social)](#)
 
 ### About Me ?
 
-1. 🎒 I am 14 years old and a junior high school student
-2. 🌆 I Live In The [**Indonesia Country**](https://en.wikipedia.org/wiki/Indonesia), [**Special Region of Yogyakarta**](https://en.wikipedia.org/wiki/Special_Region_of_Yogyakarta)
-3. 👨‍🎓 I Junior High School In [**SMPN 1 Nanggulan**](https://www.smpn1nanggulan.sch.id/)
-4. 📧 Contact Me In **info.ernestoyoofi@gmail.com**
-5. <img src="img/javascript.png" width="18px"> Javascript Is My Favorite Programing Languages
-
-<details>
+- 🎒 I am 14 years old and a junior high school student
+- 🌆 I Live In The **Kulonprogo, Yogyakarta, Central Java**
+- 📧 Contact Me In **info.ernestoyoofi@gmail.com**
+- <img src="img/javascript.png" width="16px"> Javascript Is My Favorite Programing Languages
+<!-- 
+### Github Statis
+![Readme Statis](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ernestoyoofi)
   
-  ### Github Statis
-  ![Readme Statis](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ernestoyoofi)
-  
-  ### Most Language
-  ![Readme Statis](https://bad-apple-github-readme.vercel.app/api/top-langs/?username=ernestoyoofi&show_bg=1&layout=compact)
-</details>
+### Most Language
+![Readme Statis](https://bad-apple-github-readme.vercel.app/api/top-langs/?username=ernestoyoofi&show_bg=1&layout=compact) -->
 
-[💶 Donation to me via saweria.co](https://saweria.co/ernestoyoofi)
+### Donation
+[<img src="https://saweria.co/favicon.ico" width="15px"/> Saweria](https://saweria.co/ernestoyoofi) •
+[<img src="https://trakteer.id/favicon/favicon-32x32.png?id=f551df9578344ca90df6" width="15px"/> Trakteer.id](https://trakteer.id/ernestoyoofi)
