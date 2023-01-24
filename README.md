@@ -13,7 +13,10 @@
 - 🎒 I am 14 years old and a junior high school student
 - 🌆 I Live In The **Kulonprogo, Yogyakarta, Central Java**
 - 📧 Contact Me In **info.ernestoyoofi@gmail.com**
+- 🎉 I am like building web with react.js and next.js
+- ☠️ Just code with termux
 - <img src="img/javascript.png" width="16px"> Javascript Is My Favorite Programing Languages
+
 <!-- 
 ### Github Statis
 ![Readme Statis](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ernestoyoofi)
