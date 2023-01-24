@@ -25,5 +25,5 @@
 ![Readme Statis](https://bad-apple-github-readme.vercel.app/api/top-langs/?username=ernestoyoofi&show_bg=1&layout=compact) -->
 
 ### Donation
-[<img src="https://saweria.co/favicon.ico" width="15px"/> Saweria](https://saweria.co/ernestoyoofi) •
+[<img src="https://saweria.co/favicon.ico" width="15px"/> Saweria.co](https://saweria.co/ernestoyoofi) •
 [<img src="https://trakteer.id/favicon/favicon-32x32.png?id=f551df9578344ca90df6" width="15px"/> Trakteer.id](https://trakteer.id/ernestoyoofi)
