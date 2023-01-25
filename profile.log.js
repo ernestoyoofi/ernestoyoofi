@@ -1,5 +1,0 @@
-const css = document.createElement(`klpt`)
-document.body.appendChild(css)
-setTimeout(() => {
-  setTimeout(() => {document.querySelector('klpt').innerHTML += `<style>@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@540;600;700&display=swap'); .idPerviewAlert { padding: 0px; margin: 0px; font-family: 'Quicksand', sans-serif; font-size: 15px; animation: LoadPer 5s; margin-bottom: -45px; } @keyframes LoadPer { 0% { bottom: -50px; } 10% { bottom: 57px;} 90% { bottom: 57px; } 100% { bottom: -50px; }}</style><div class="idPerviewAlert" style="position: fixed; bottom: 10px; left: 10px; padding: 6px; background-color: #ffbfbf; display: flex; align-items: center; justify-content: center; width: 245px; border: 1px solid #ff0000; border-radius: 3px; color: #ff0000;"><span>Tidak Terhubung Ke Database</span></div>`}, 100)
-}, 100)
