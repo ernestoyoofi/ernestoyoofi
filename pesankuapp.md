@@ -2,7 +2,6 @@
   - [x] HTTP (🎉 Selesai) [✔️ Tidak ada bug semacamnya]
     - [x] Register
     - [x] Masuk
-    - [x] Perbarui Kredensial
   - [ ] Websocket (Starting Handle **2/9**)
     - [x] Download Pesan
     - [ ] Kirim Pesan
