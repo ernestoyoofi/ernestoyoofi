@@ -3,15 +3,15 @@
     - [x] Register
     - [x] Masuk
   - [ ] Websocket (Starting Handle **2/9**)
-    - [x] Download Pesan
+    - [x] Download Pesan [⚠️ Tidak dapat terhubung]
     - [ ] Kirim Pesan
     - [ ] Dapatkan Pesan
     - [ ] Hapus Pesan
-    - [x] Ubah Informasi Akun
-    - [x] Upload Media
-    - [x] Save Contact
-    - [x] Dapatkan Informasi Akun
-    - [x] Dapatkan Kredensial Akun Setelah Membuka Aplikasi
+    - [x] Ubah Informasi Akun [⚠️ Error format json]
+    - [x] Upload Media [⚠️ Tidak dapat mendapatkan kredensial]
+    - [x] Save Contact [⚠️ Tidak dapat mendapatkan kredensial]
+    - [x] Dapatkan Informasi Akun [⚠️ Tidak dapat mendapatkan kredenstial]
+    - [x] Dapatkan Kredensial Akun Setelah Membuka Aplikasi [⚠️ Permintaan ID]
 
 - [ ] Selesaikan Semua Tugas Pada Aplikasi
 
