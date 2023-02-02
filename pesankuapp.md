@@ -1,5 +1,5 @@
 - [ ] Selesaikan Semua Tugas Pada Server
-  - [x] HTTP (🎉 Selesai)
+  - [x] HTTP (🎉 Selesai) [✔️ Tidak ada bug semacamnya]
     - [x] Register
     - [x] Masuk
     - [x] Perbarui Kredensial
