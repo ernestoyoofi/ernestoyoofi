@@ -15,6 +15,7 @@
 - 📧 Contact Me In **info.ernestoyoofi@gmail.com**
 - 🎉 I am like building web with react.js and next.js
 - ☠️ Just code with termux
+- 💩 No Idea
 - <img src="img/javascript.png" width="16px"> Javascript Is My Favorite Programing Languages
 
 <!-- 
