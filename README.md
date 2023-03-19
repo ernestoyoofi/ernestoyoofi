@@ -10,7 +10,7 @@
 
 ### About Me ?
 
-- 🎒 I am 14 years old and a junior high school student
+- 🎒 I am 15 years old and a junior high school student
 - 🌆 I Live In The **Kulonprogo, Yogyakarta, Central Java**
 - 📧 Contact Me In **info.ernestoyoofi@gmail.com**
 - 🎉 I am like building web with react.js and next.js
