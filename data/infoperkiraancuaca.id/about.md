@@ -7,3 +7,6 @@ Sumber asli (Original Source) aplikasi ada pada bawah ini :
 - Gempabumi : https://data.bmkg.go.id/gempabumi/ (dokumentasi)
 - Gempabumi Data : https://data.bmkg.go.id/DataMKG/TEWS/autogempa.json
 - Gempabumi List : https://infoperkiraanalam-id.vercel.app/gempabumi/view-all
+
+Aplikasi ini tidak memiliki permintaan untuk mengirimkan data spesifik dari user. <br/>
+aplikasi hanya memberikan data dari server
