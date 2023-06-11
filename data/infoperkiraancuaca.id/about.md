@@ -1,4 +1,4 @@
-# Tentang Aplikasi
+## Tentang Aplikasi
 
 Aplikasi ini adalah aplikasi yang hanya untuk prototipe (bentuk dasar percobaan) pada sistem notifikasi / realtime notification
 
@@ -10,3 +10,11 @@ Sumber asli (Original Source) aplikasi ada pada bawah ini :
 
 Aplikasi ini tidak memiliki permintaan untuk mengirimkan data spesifik dari user. <br/>
 aplikasi hanya memberikan data dari server
+
+## Perpustaka yang digunakan
+
+- axios (http request)
+- socket.io-client (push notif)
+- expo-device (show device)
+- expo-notifications (shoe update)
+- react-native-maps (maps)
