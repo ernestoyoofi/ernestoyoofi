@@ -1,0 +1,35 @@
+{
+  "profile": {
+    "name": "Ernestoyoofi",
+    "tags": "ernestoyoofi",
+    "about": "Aku hanyalah seorang developer, hanya orang biasa yang gabut di dunia maya dan nyata.\n\nMaaf, sedang sedikit sibuk",
+    "profile_pic": "https://avatars.githubusercontent.com/u/94425296",
+    "image_banner": "https://raw.githubusercontent.com/ernestoyoofi/ernestoyoofi/data/profile-biolink/banner-of-jogyakarta-old.png"
+  },
+  "socialmedia": {
+    "instagram": "nakiko.chan_",
+    "facebook": "zeemong.yetta.5",
+    "youtube": "ernestoyoofi",
+    "twitter": "Ernestoyoofi",
+    "threads": "nakiko.chan_",
+    "twitch": "Ernestoyoofi",
+    "reddit": "Ernestoyoofi"
+  },
+  "link": [
+    {
+      "title": "Spotify Playlist",
+      "url": "https://open.spotify.com/playlist/4Ji35DZO5CUx49z277SZg4"
+    },
+    {
+      "title": "Saweria.co",
+      "url": "https://saweria.co/ernestoyoofi"
+    },
+    {
+      "title": "Trakteer.id",
+      "url": "https://trakteer.id/ernestoyoofi"
+    }
+  ],
+  "footer": {
+    "contact": "info.ernestoyoofi@gmail.com"
+  }
+}
