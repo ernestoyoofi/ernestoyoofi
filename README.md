@@ -16,6 +16,8 @@
 
 ### ✨ Social Media
 
+[Trakteer.id](https://trakteer.id/ernestoyoofi) ¦
+[Threads](https://threads.net/nakiko.chan_) ¦
 [Instagram](https://instagram.com/nakiko.chan_) ¦
 [YouTube](https://youtube.com/ernestoyoofi)
 
