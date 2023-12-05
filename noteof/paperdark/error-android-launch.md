@@ -20,5 +20,3 @@ This error is because you are using an emulator when opening, if you want to ope
 This error is not from the app, but to ensure experimental, beta, early access features can be used normally before the release of the stable version, there may be more errors even though the library used is safe!
 
 You can only open it for Android 10 or above in addition to (API Level 29 or above)
-
-[Translate by DeepL Translate](https://deepl.com)
