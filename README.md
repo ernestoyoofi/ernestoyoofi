@@ -1,3 +1,5 @@
+![](./img/banner-23-02-2024.jpg)
+
 ## Hi There 👋, Welcome !
 
 Hi, I'm Ernestoyoofi, I'm a web and mobile app developer from Indonesia, more precisely Yogyakarta. <br/>
