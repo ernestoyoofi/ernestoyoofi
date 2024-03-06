@@ -9,12 +9,12 @@ Besides coding as a programmer, I am also a photographer or videographer on seve
 ## 🧑‍💻 I am currently working on
 
 - Pesanku-App a messaging application for mobile phones
-- Electronic web vote of osis chairman
 - Paperdark, an app for anonymous writing
+- Electronic web vote of osis chairman
 
 ## 🤔 How to contact me
 
-[X Twitter](https://twitter.com/itzyupi_) ¦ [Email](mailto://info.ernestoyoofi@gmail.com)
+[X Twitter](https://twitter.com/ernestoyoofi_) ¦ [Email](mailto://info.ernestoyoofi@gmail.com)
 <!-- <img src="https://trakteer.id/storage/images/cover/cvr-lDWadqmiX1DoEjFay4DkEVWE5Y6zVkxC1674443656.jpg" width="100%"/>
 
 # I'm Ernestoyoofi, I'm a web programmer in my village
