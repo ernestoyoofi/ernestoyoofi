@@ -1,4 +1,4 @@
-![](./img/sakura-san%20reading%20c%2B%2B.jpeg)
+<img src="./img/sakura-san%20reading%20c%2B%2B.jpeg" width="100%"/>
 
 ## Hi There 👋, Welcome !
 
@@ -12,10 +12,20 @@ Besides coding as a programmer, I am also a photographer or videographer on seve
 - Paperdark, an app for anonymous writing
 - Electronic web vote of osis chairman
 
-## 🤔 Contact me
+## 📱 Social Media
 
-[X Twitter](https://twitter.com/ernestoyoofi_) • [Email](mailto://info.ernestoyoofi@gmail.com) •
+[X Twitter](https://twitter.com/ernestoyoofi) •
+[Instagram](https://instagram.com/nakiko.chan_) •
+[Tiktok (Random post)](https://tiktok.com/@nakiko.chan_)
+
+## 💌 Contact Me
+[Email](mailto://info.ernestoyoofi@gmail.com) •
 [Telegram](https://t.me/nakikochan)
+
+## 📦 Other
+
+![T](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ernestoyoofi)
+
 <!-- <img src="https://trakteer.id/storage/images/cover/cvr-lDWadqmiX1DoEjFay4DkEVWE5Y6zVkxC1674443656.jpg" width="100%"/>
 
 # I'm Ernestoyoofi, I'm a web programmer in my village
