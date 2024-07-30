@@ -24,6 +24,8 @@ Besides coding as a programmer, I am also a photographer or videographer on seve
 
 ## 📦 Other
 
+<img src="./data/paddingof-codes.png" style="width-max: 490px;" width="60%"/>
+
 ![T](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ernestoyoofi)
 
 <!-- <img src="https://trakteer.id/storage/images/cover/cvr-lDWadqmiX1DoEjFay4DkEVWE5Y6zVkxC1674443656.jpg" width="100%"/>
