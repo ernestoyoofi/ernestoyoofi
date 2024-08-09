@@ -8,9 +8,8 @@ Besides coding as a programmer, I am also a photographer or videographer on seve
 
 ## 🧑‍💻 I am currently working on
 
-- Pesanku-App a messaging application for mobile phones
-- Paperdark, an app for anonymous writing
-- Electronic web vote of osis chairman
+- [ ] Electronic web vote of osis chairman
+- [x] Paperdark, an app for anonymous writing
 
 ## 📱 Social Media
 
