@@ -21,6 +21,10 @@ Besides coding as a programmer, I am also a photographer or videographer on seve
 [Email](mailto://info.ernestoyoofi@gmail.com) •
 [Telegram](https://t.me/nakikochan)
 
+## 📌 Public Project
+
+[![OpenAPI](https://github-readme-stats.vercel.app/api/pin?username=ernestoyoofi&repo=openapi)](//github.com/ernestoyoofi/openapi)
+
 ## 📦 Other
 
 <!-- ![C](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoyoofi&layout=compact) -->
