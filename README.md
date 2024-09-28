@@ -1,6 +1,6 @@
-<img src="./img/sakura-san%20reading%20c%2B%2B.jpeg" width="100%"/>
+<!-- <img src="./img/sakura-san%20reading%20c%2B%2B.jpeg" width="100%"/>-->
 
-## Hi There 👋, Welcome !
+# Hi There 👋, Welcome !
 
 Hi, I'm Ernestoyoofi, I'm a web and mobile app developer from Indonesia, more precisely Yogyakarta. <br/>
 I studied the web and application part only, I like javascript projects with frameworks such as Next.js and React Native Expo, in addition to the backend part with Nodejs only. <br/>
@@ -23,7 +23,9 @@ Besides coding as a programmer, I am also a photographer or videographer on seve
 
 ## 📦 Other
 
-![C](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoyoofi&layout=compact) ![T](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ernestoyoofi)
+<!-- ![C](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoyoofi&layout=compact) -->
+![T](https://bad-apple-github-readme.vercel.app/api/top-langs?show_bg=1&username=ernestoyoofi)
+![T](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ernestoyoofi)
 
 <!-- <img src="https://trakteer.id/storage/images/cover/cvr-lDWadqmiX1DoEjFay4DkEVWE5Y6zVkxC1674443656.jpg" width="100%"/>
 
