@@ -1,6 +1,6 @@
 # Ernestoyoofi
 
-<img src="./img/shiroko-chibi.jpg" align="right" width="120" />
+<img src="./img/shiroko-chibi.webp" align="right" width="150" />
 
 Hi there, i'm Ernestoyoofi, i'm a web developer and mobile developer from Indonesia, more precisely in Special Region Of Yogyakarta.
 I am a student from school [SMKN 1 Seyegan](https://smkn1seyegan.sch.id/) majoring in [TKJ (Network and computer engineering)](https://www.instagram.com/tkj.skanesga.official/), I started trying the world of code in 2021, you can check what I have made. I am not only a programmer but also a photographer.
