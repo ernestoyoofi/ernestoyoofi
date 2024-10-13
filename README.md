@@ -1,6 +1,6 @@
 # Ernestoyoofi
 
-<img src="./img/shiroko-chibi.webp" align="right" width="130" />
+<img src="./img/shiroko-chibi.webp" align="right" width="110" />
 
 Hi there, i'm Ernestoyoofi, i'm a web developer and mobile developer from Indonesia, more precisely in Special Region Of Yogyakarta.
 I am a student from school [SMKN 1 Seyegan](https://smkn1seyegan.sch.id/) majoring in [TKJ (Network and computer engineering)](https://www.instagram.com/tkj.skanesga.official/), I started trying the world of code in 2021, you can check what I have made. I am not only a programmer but also a photographer.
@@ -25,4 +25,6 @@ I am a student from school [SMKN 1 Seyegan](https://smkn1seyegan.sch.id/) majori
 
 ## 📌 Others
 
-[![Trakteer](./img/label-trakteer.png)](https://trakteer.id/ernestoyoofi)
+[![Trakteer](https://custom-icon-badges.demolab.com/badge/Trakteer-9c1824?style=for-the-badge&logo=trakteer&logoColor=white)](https://trakteer.id/ernestoyoofi)
+[![Saweria](https://custom-icon-badges.demolab.com/badge/Saweria-faae2b?style=for-the-badge&logo=saweria)](https://saweria.co/ernestoyoofi)
+[![Telegram Contact](https://custom-icon-badges.demolab.com/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/nakikochan)
