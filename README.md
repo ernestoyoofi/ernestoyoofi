@@ -26,7 +26,8 @@ I am a student from school [SMKN 1 Seyegan](https://smkn1seyegan.sch.id/) majori
 
 ## 📊 Stats
 
-<img src="https://bad-apple-github-readme.vercel.app/api/top-langs?show_bg=1&username=ernestoyoofi" width="200"/> <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ernestoyoofi" width="400"/>
+<!-- <img src="https://bad-apple-github-readme.vercel.app/api/top-langs?show_bg=1&username=ernestoyoofi" width="200"/> <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ernestoyoofi" width="400"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ernestoyoofi" width="239"/> <img src="https://github-readme-stats.vercel.app/api?show_bg=1&username=ernestoyoofi" width="304"/>
 
 ## 📌 Others
 
