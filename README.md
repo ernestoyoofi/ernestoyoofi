@@ -31,8 +31,6 @@ I am a student from school [SMKN 1 Seyegan](https://smkn1seyegan.sch.id/) majori
 
 ## 📌 Others
 
-![Quoted](https://quoted-profile.nakikoneko.workers.dev/ernestoyoofi)
-
 [![Trakteer](https://custom-icon-badges.demolab.com/badge/Trakteer-9c1824?style=for-the-badge&logo=trakteer&logoColor=white)](https://trakteer.id/ernestoyoofi)
 [![Saweria](https://custom-icon-badges.demolab.com/badge/Saweria-faae2b?style=for-the-badge&logo=saweria)](https://saweria.co/ernestoyoofi)
 [![Telegram Contact](https://custom-icon-badges.demolab.com/badge/Contact_On_Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/nakikochan)
