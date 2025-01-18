@@ -1,6 +1,6 @@
 # Ernestoyoofi
 
-<img src="./img/shiroko-chibi.webp" align="left" width="100" />
+<img src="./img/shiroko-chibi.webp" align="right" width="100" />
 
 Hello!
 
