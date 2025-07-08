@@ -6,8 +6,6 @@ I'm a web developer and mobile developer from Indonesia. I am a student from sch
 
 ## ✨ Skill & Use Language
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoyoofi&include_all_commits=true&count_private=true&layout=compact" align="right" height="135" />
-
 <!-- It looks like HTML and CSS have the basic language for the web -->
 <!-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) -->
@@ -27,3 +25,6 @@ I'm a web developer and mobile developer from Indonesia. I am a student from sch
 
 [![Instagram](https://img.shields.io/badge/Instagram-8F0BBF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nakiko.chan_)
 [![Instagram](https://img.shields.io/badge/Twitter(X)-090A0A?style=for-the-badge&logo=x&logoColor=white)](https://instagram.com/nakiko.chan_)
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoyoofi&include_all_commits=true&count_private=true&layout=compact)
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoyoofi&include_all_commits=true&count_private=true&layout=compact" align="right" height="135" /> -->
