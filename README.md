@@ -1,6 +1,6 @@
 # Hi there!, I'm Ernestoyoofi
 
-<img src="./shiroko-nice.webp" align="right" width="110" />
+<img src="./shiroko-nice.webp" align="right" width="97" />
 
 I'm a web developer and mobile developer from Indonesia. I am a student from school [SMKN 1 Seyegan (Network Engineer & Computer Science)](https://smkn1seyegan.sch.id/), you can check what i have made. i am not only a programmer but also a photographer.
 
@@ -21,10 +21,10 @@ I'm a web developer and mobile developer from Indonesia. I am a student from sch
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/Postgresql-153EC2?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🐾 Other
+<!-- ## 🐾 Other
 
 [![Instagram](https://img.shields.io/badge/Instagram-8F0BBF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nakiko.chan_)
 [![Instagram](https://img.shields.io/badge/Twitter(X)-090A0A?style=for-the-badge&logo=x&logoColor=white)](https://instagram.com/nakiko.chan_)
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoyoofi&include_all_commits=true&count_private=true&layout=compact)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoyoofi&include_all_commits=true&count_private=true&layout=compact) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoyoofi&include_all_commits=true&count_private=true&layout=compact" align="right" height="135" /> -->
