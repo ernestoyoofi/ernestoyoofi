@@ -8,6 +8,7 @@ I'm a web developer and mobile developer from Indonesia. I am a student from sch
 
 ![Docker](https://img.shields.io/badge/Docker-099cec?style=for-the-badge&logo=docker&logoColor=white)
 ![Mikrotik](https://img.shields.io/badge/Mikrotik-A81919?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_Css-00bcff?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
