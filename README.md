@@ -15,6 +15,7 @@ I'm a web developer and mobile developer from Indonesia. I am a student from sch
 ![Supabase](https://img.shields.io/badge/Supabase-171717?style=for-the-badge&logo=supabase&logoColor=3ecf8e)
 ![Mongodb](https://img.shields.io/badge/Mongodb-171717?style=for-the-badge&logo=mongodb&logoColor=3ecf8e)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_Css-00bcff?style=for-the-badge&logo=tailwindcss&logoColor=white)
