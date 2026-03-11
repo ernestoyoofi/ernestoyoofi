@@ -1,13 +1,16 @@
-# Hi there!, I'm Ernestoyoofi
+# Hi!, I'm Ernestoyoofi
 
 <img src="./shiroko-nice.webp" align="right" width="108" />
 
-I'm a web developer and mobile developer from Indonesia. I am a student from school [SMKN 1 Seyegan (Network Engineer & Computer Science)](https://smkn1seyegan.sch.id/?utm_source=github.com/ernestoyoofi), you can check what i have made. i am not only a programmer but also a photographer, you can check [on my instagram](https://instagram.com/nakiko.chan_).
+I'm a **web developer and mobile developer** (Specific on React / React Native as frontend developer) from **Special Region of Yogyakarta**, you can check what i have made. i am not only a programmer but also **a photographer**, you can check [on my instagram](https://instagram.com/nakiko.chan_).
 
-## 📚 Techs / Tools
+## Techs / Tools
 
+![Affinity](https://img.shields.io/badge/Affinity-a7f175?style=for-the-badge&logo=affinity-photo&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-171717?style=for-the-badge&logo=figma&logoColor=white)
 ![Mikrotik](https://img.shields.io/badge/Mikrotik-A81919?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-099cec?style=for-the-badge&logo=docker&logoColor=white)
+![Wireguard](https://img.shields.io/badge/Wireguard-871719?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-111217?style=for-the-badge&logo=grafana&logoColor=ff671d)
 ![Postgresql](https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
