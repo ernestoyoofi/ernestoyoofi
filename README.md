@@ -1,7 +1,7 @@
 # Hi!, I'm Ernestoyoofi
 
 <!-- <img src="./shiroko-nice.webp" align="right" width="108" /> -->
-<img src="./plana_sleepy.webp" align="right" width="120" />
+<img src="./image/plana_sleepy.webp" align="right" width="120" />
 
 I'm a **web developer and mobile developer** (Specific on React / React Native as frontend developer) from **Special Region of Yogyakarta**, you can check what i have made. i am not only a programmer but also **a photographer**, you can check [on my instagram](https://instagram.com/nakiko.chan_).
 
