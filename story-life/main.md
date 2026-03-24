@@ -4,6 +4,19 @@ A short message that makes a difference
 
 ---
 
+> "Dirimu bukanlah dewa, hanya sebatang ranting yang tertiup angin"
+>
+> EN: "You are not a god, just a twig blown by the wind"
+
+- **Category:** Humility / Nature of Life
+
+- **Mean:**
+
+  - en : `We don't have full control over everything in this world. Never feel superior or invincible, because in the end we are just a small part of the universe moving according to fate.`
+  - id : `Kita tidak memiliki kendali penuh atas segalanya di dunia ini. Jangan pernah merasa paling tinggi atau tak terkalahkan, karena pada akhirnya kita hanyalah bagian kecil dari semesta yang bergerak mengikuti takdir.`
+
+---
+
 > "Terkadang hidup tak berarti lebih memiliki arti daripada arti itu sendiri"
 >
 > EN: "Sometimes life doesn't mean more than the meaning itself"
