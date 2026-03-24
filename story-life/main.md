@@ -5,6 +5,7 @@ A short message that makes a difference
 ---
 
 > "Terkadang hidup tak berarti lebih memiliki arti daripada arti itu sendiri"
+>
 > EN: "Sometimes life doesn't mean more than the meaning itself"
 
 - **Category:** Deep Reality
@@ -17,6 +18,7 @@ A short message that makes a difference
 ---
 
 > "Akhir dari sebuah perjalanan bukanlah segalanya, namun keistirahatanmu yang mengakhirmu."
+>
 > EN: "The end of a journey is not everything, but your rest is what ends you."
 
 - **Category:** Deep Reality

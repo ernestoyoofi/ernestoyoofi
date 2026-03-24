@@ -4,36 +4,54 @@ const mainstorylife = "./main.md"
 const jsonlisttop = "./result/top.json"
 const jsonlistall = "./result/all.json"
 
-function parseTextContent(content) {
-  const blocks = content.split(/---/);
+function parseStoryLife(content) {
+  const blocks = content.split('---');
   const results = [];
 
   blocks.forEach(block => {
-    if (!block.includes('> "')) return;
+    const lines = block.split('\n').map(line => line.trim());
+    
+    // Cari kutipan (baris yang mulai dengan >)
+    const quotes = lines
+      .filter(l => l.startsWith('>'))
+      .map(l => {
+        const match = l.match(/"([^"]+)"/);
+        return match ? match[1] : null;
+      })
+      .filter(Boolean);
 
-    const quoteMatch = block.match(/> "([^"]+)"\s*\n>\s*EN:\s*"([^"]+)"/);
-    const categoryMatch = block.match(/- \*\*Category:\*\*\s*([^\n]+)/);
-    const meanEnMatch = block.match(/- en\s*:\s*`([\s\S]*?)`/);
-    const meanIdMatch = block.match(/- id\s*:\s*`([\s\S]*?)`/);
-    if (quoteMatch) {
-      results.push({
-        quoted: {
-          id: quoteMatch[1].trim(),
-          en: quoteMatch[2].trim()
-        },
-        mean: {
-          en: meanEnMatch ? meanEnMatch[1].trim() : "",
-          id: meanIdMatch ? meanIdMatch[1].trim() : ""
-        },
-        category: categoryMatch ? categoryMatch[1].trim() : "Unknown"
-      });
-    }
+    if (quotes.length === 0) return; // Skip jika bukan blok kutipan
+
+    // Cari Category
+    const categoryLine = lines.find(l => l.includes('**Category:**'));
+    const category = categoryLine ? categoryLine.split('**Category:**')[1].trim() : "Unknown";
+
+    // Cari Mean (Mengambil teks di antara backtick)
+    const findMean = (lang) => {
+      const line = lines.find(l => l.toLowerCase().startsWith(`- ${lang.toLowerCase()} :`));
+      if (!line) return "";
+      const match = line.match(/`([\s\S]*?)`/);
+      return match ? match[1] : "";
+    };
+
+    results.push({
+      quoted: {
+        id: quotes[0] || "",
+        en: quotes[1] || ""
+      },
+      mean: {
+        id: findMean('id'),
+        en: findMean('en'),
+      },
+      category: category
+    });
   });
+
   return results;
 }
 
 const readfile = fs.readFileSync(mainstorylife, "utf-8")
-const parse = parseTextContent(readfile)
+const parse = parseStoryLife(readfile)
 
 fs.writeFileSync(jsonlistall, JSON.stringify(parse, null, 2))
 fs.writeFileSync(jsonlisttop, JSON.stringify(parse.slice(0, 30), null, 2))
