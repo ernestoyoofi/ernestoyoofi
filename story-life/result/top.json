@@ -1,6 +1,50 @@
 [
   {
     "quoted": {
+      "id": "Senyumanmu membawa riang hati gembira seperti cerahnya mata hari",
+      "en": "Your smile brings joy to the heart like the brightness of the sun"
+    },
+    "mean": {
+      "id": "Kebahagiaan sejati seringkali datang dari hal yang paling sederhana. Seperti hangatnya sinar matahari yang mengusir kedinginan, senyuman yang tulus memiliki kekuatan untuk mengubah suasana hati yang mendung menjadi ceria dan penuh harapan.",
+      "en": "True happiness often comes from the simplest things. Like the warmth of the sun that dispels the cold, a sincere smile has the power to change a gloomy mood into a cheerful and hopeful one."
+    },
+    "category": "Pure Happiness"
+  },
+  {
+    "quoted": {
+      "id": "Kapanpun kamu berada, kamu tak kan hilang arah",
+      "en": "Wherever you are, you won't lose your way"
+    },
+    "mean": {
+      "id": "Jangan terlalu cemas saat merasa kehilangan kendali. Hidup seringkali membawamu ke arah yang tak terduga, namun selagi kamu tetap bernapas dan berjalan, kamu tidak benar-benar tersesat. Terkadang, mengikuti arus adalah cara terbaik untuk menemukan pelabuhan yang sebenarnya.",
+      "en": "Don't be too anxious when you feel like you're losing control. Life often takes you in unexpected directions, but as long as you keep breathing and walking, you're not truly lost. Sometimes, going with the flow is the best way to find the real harbor."
+    },
+    "category": "Surrender / Flow of Life"
+  },
+  {
+    "quoted": {
+      "id": "Kehancuran hanya akan hancur jika tidak dipertahankan",
+      "en": "Destruction will only be destroyed if it is not maintained"
+    },
+    "mean": {
+      "id": "Ada kesedihan yang menetap karena kita terus mencoba menggenggam sesuatu yang seharusnya sudah hancur. Kita seringkali terluka bukan karena kehancuran itu sendiri, melainkan karena upaya kita yang terlalu keras untuk mempertahankan sisa-sisa harapan yang sebenarnya sudah memudar.",
+      "en": "There is a lingering sadness because we keep trying to hold on to something that should have been destroyed. We are often hurt not by the destruction itself, but by our own efforts to hold on to the remnants of hope that have actually faded."
+    },
+    "category": "Inner Struggle / Resilience"
+  },
+  {
+    "quoted": {
+      "id": "Sedih bukan berarti dirimu salah, tapi perlu kemaafan terhadap hatimu",
+      "en": "Sadness is not a sign of failure or moral wrongdoing"
+    },
+    "mean": {
+      "id": "Rasa sedih bukanlah tanda kegagalan atau kesalahan moral. Itu adalah sinyal bahwa hatimu sudah terlalu lelah berjuang sendirian. Berhentilah menyalahkan diri, dan mulailah memberikan maaf serta perhatian yang selama ini kamu berikan kepada orang lain, namun lupa kamu berikan kepada dirimu sendiri.",
+      "en": "Sadness is not a sign of failure or moral wrongdoing. It is a signal that your heart is too tired to fight alone. Stop blaming yourself, and start giving the forgiveness and attention that you have always given to others, but forgot to give to yourself."
+    },
+    "category": "Self-Forgiveness / Healing"
+  },
+  {
+    "quoted": {
       "id": "Dirimu bukanlah dewa, hanya sebatang ranting yang tertiup angin",
       "en": "You are not a god, just a twig blown by the wind"
     },
