@@ -1,6 +1,6 @@
 # Hi!, I'm Ernestoyoofi
 
-<!-- Idk, i just try it commit today for streak -->
+<!-- Idk, i just try it commit today for streak 🔥 (2) -->
 
 <img src="./image/purana-icon.webp" align="right" width="87" />
 
