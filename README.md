@@ -6,8 +6,6 @@
 
 I'm a **web developer and mobile developer** (Specific on React / React Native as frontend developer) from **Special Region of Yogyakarta**, you can check what i have made. i am not only a programmer but also **a photographer**, you can check [on my instagram](https://instagram.com/nakiko.chan_).
 
----
-
 ### Techs / Tools
 
 ![Affinity](https://img.shields.io/badge/Affinity-a7f175?style=for-the-badge&logo=affinity-photo&logoColor=black)
