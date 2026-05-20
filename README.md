@@ -1,12 +1,14 @@
 # Hi!, I'm Ernestoyoofi
 
-<!-- Idk, i just try it commit today for streak 🔥 (2) -->
+<!-- Idk, i just try it commit today for streak 🔥 (1 - i just lost my streak) -->
 
-<img src="./image/purana-icon.webp" align="right" width="87" />
+<img src="./image/purana-icon.webp" align="right" width="85" />
 
 I'm a **web developer and mobile developer** (Specific on React / React Native as frontend developer) from **Special Region of Yogyakarta**, you can check what i have made. i am not only a programmer but also **a photographer**, you can check [on my instagram](https://instagram.com/nakiko.chan_).
 
-## Techs / Tools
+---
+
+### Techs / Tools
 
 ![Affinity](https://img.shields.io/badge/Affinity-a7f175?style=for-the-badge&logo=affinity-photo&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-171717?style=for-the-badge&logo=figma&logoColor=white)
@@ -29,3 +31,4 @@ I'm a **web developer and mobile developer** (Specific on React / React Native a
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Expo App](https://img.shields.io/badge/Expo_App-0c0d0e?style=for-the-badge&logo=expo&logoColor=white)
+
