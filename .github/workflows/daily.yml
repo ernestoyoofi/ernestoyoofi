@@ -38,8 +38,8 @@ jobs:
           # Cek apakah ada perubahan
           if [[ -n $(git status -s) ]]; then
             git add streak.txt
-            git commit -m "Update streak: $(date +'%Y-%m-%d')"
+            git commit -m "No Commit?, Have Streak At: $(date +'%Y-%m-%d')"
             git push
           else
-            echo "Tidak ada perubahan pada streak.txt"
+            echo "No change on streak.txt"
           fi
