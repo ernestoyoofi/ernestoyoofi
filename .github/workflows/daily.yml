@@ -1,0 +1,45 @@
+# Github Streak Daily Runner
+# Requirement: There must be at least 2-3 commits on one repo or more per week
+name: Daily Streak Runner
+
+on:
+  schedule:
+    # 11:00 UTC = 18:00 WIB
+    - cron: '0 11 * * *'
+  workflow_dispatch: # Running As Manualy
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install -r daily-streak/requirements.txt
+
+      - name: Run daily script
+        run: |
+          python daily-streak/daily.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Cek apakah ada perubahan
+          if [[ -n $(git status -s) ]]; then
+            git add streak.txt
+            git commit -m "Update streak: $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "Tidak ada perubahan pada streak.txt"
+          fi
