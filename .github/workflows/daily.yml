@@ -30,10 +30,23 @@ jobs:
         run: |
           python daily-streak/daily.py
 
+      # - name: Commit and push changes
+      #   run: |
+      #     git config --global user.name "github-actions[bot]"
+      #     git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+      #     # Cek apakah ada perubahan
+      #     if [[ -n $(git status -s) ]]; then
+      #       git add streak.txt
+      #       git commit -m "No Commit?, Have Streak At: $(date +'%Y-%m-%d')"
+      #       git push
+      #     else
+      #       echo "No change on streak.txt"
+      #     fi
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Ernestoyoofi"
+          git config --global user.email "94425296+ernestoyoofi@users.noreply.github.com"
           
           # Cek apakah ada perubahan
           if [[ -n $(git status -s) ]]; then
