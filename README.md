@@ -1,4 +1,4 @@
-# Hi!, I'm Ernestoyoofi
+# Hi!, I'm Ernestoyoofi (Yupi!)
 
 <img src="./image/purana-icon.webp" align="right" width="85" />
 
