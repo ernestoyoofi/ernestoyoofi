@@ -1,6 +1,6 @@
 # Hi!, I'm Ernestoyoofi (Yupi!)
 
-<img src="./image/purana-icon.webp" align="right" width="85" />
+<img src="./image/purana-icon.webp" align="right" width="83" />
 
 I'm a **web developer and mobile developer** (Specific on React / React Native as frontend developer) from **Special Region of Yogyakarta**, you can check what i have made. i am not only a programmer but also **a photographer** and also enjoys the world of design and editing.
 
