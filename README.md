@@ -22,6 +22,7 @@ I'm a **web developer and mobile developer** (Specific on React / React Native a
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Express.js](https://img.shields.io/badge/Express.js-292b31?style=for-the-badge&logo=express&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-478e3f?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Bun](https://img.shields.io/badge/Bun-171316?style=for-the-badge&logo=bun&logoColor=fbf0df)
   ![Vue](https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
