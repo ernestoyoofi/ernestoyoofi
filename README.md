@@ -4,7 +4,7 @@
 
 I'm a **web developer and mobile developer** (Specific on React / React Native as frontend developer), you can check what i have made. i am not only a programmer but also **a photographer** and also enjoys the world of design and editing.
 
-<details>
+<!-- <details>
   <summary>Techs / Tools</summary>
   <br />
   
@@ -30,4 +30,4 @@ I'm a **web developer and mobile developer** (Specific on React / React Native a
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
   ![Expo App](https://img.shields.io/badge/Expo_App-0c0d0e?style=for-the-badge&logo=expo&logoColor=white)
-</details>
+</details> -->
